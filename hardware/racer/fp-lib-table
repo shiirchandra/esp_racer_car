@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "custom")(type "KiCad")(uri "C:/Users/shish/Downloads/Third_SEm/Mechatronics/Raspberrypi Pico W/ESP-Drone-main")(options "")(descr ""))
+  (lib (name "custom2")(type "KiCad")(uri "C:/Users/shish/Downloads/Third_SEm/Mechatronics/Raspberrypi Pico W/ESP-Drone-main/Hardware")(options "")(descr ""))
+  (lib (name "logo")(type "KiCad")(uri "${KIPRJMOD}/logo/logo.pretty")(options "")(descr ""))
+  (lib (name "Panelization")(type "KiCad")(uri "C:/Users/shish/Downloads/Racer_car_project/Panelization.pretty")(options "")(descr ""))
+)
